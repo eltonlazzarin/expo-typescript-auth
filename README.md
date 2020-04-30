@@ -20,14 +20,11 @@
 This project was developed with the following technologies:
 
 - [Expo](https://expo.io/)
-- [expo-constants](https://docs.expo.io/versions/latest/sdk/constants/)
-- [expo-mail-composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
-- [intl](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat)
 - [react-native-gesture-handler](https://docs.expo.io/versions/latest/sdk/gesture-handler/)
 - [react-native-web](https://code.visualstudio.com)
 - [react-native-safe-area-context](https://docs.expo.io/versions/v33.0.0/introduction/running-in-the-browser/)
 - [Axios](https://github.com/axios/axios)
-- [VS Code](https://code.visualstudio.com)
+- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## :information_source: How To Use
 
