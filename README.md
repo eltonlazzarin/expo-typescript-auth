@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
     <img alt="Login" src="https://github.com/eltonlazzarin/expo-typescript-auth/blob/master/assets/login.png" />
     <br>
@@ -56,8 +55,8 @@ $ yarn start
 
 ## This project is under the MIT license.
 
-Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
-=======
-# expo-typescript-auth  
-Simple mobile login built with Expo and Typescript
->>>>>>> 8639af81e42e76aa85b8766b843127f441cb2abf
+# Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
+
+# expo-typescript-auth
+
+Simple mobile login built with Expo and Typescrip
