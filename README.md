@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">
     <img alt="Login" src="https://github.com/eltonlazzarin/expo-typescript-auth/blob/master/assets/login.png" />
     <br>
 </h1>
