@@ -48,7 +48,7 @@ $ yarn start
 
 2. With the app installed, open it and click on <strong>Scan QR Code</strong>, point the camera phone to the QR code shown on the page that opened after executing the command yarn start and ready, the app will load and be ready for use.
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license.
 
